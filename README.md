@@ -1,7 +1,8 @@
 ## Hi, I’m Sumer Mohan Singh Bassi 👋
 
 I am an undergraduate student in **Mechanical Engineering at IIT Ropar**, with a minor in **Computer Science and Engineering**.
-My academic interests lie in **autonomous systems, probabilistic decision-making, and robotics**, where physical system modeling intersects with data-driven inference and control.
+My academic interests lie in **autonomous systems, probabilistic decision-making, thermo-
+fluidics, and robotics**, where physical system modeling intersects with data-driven inference and control.
 
 I am particularly interested in how **intelligent systems can operate under uncertainty**, adapting to changing dynamics, sensing limitations, and environmental constraints—problems that arise in robotics, aerospace systems, and complex engineered platforms.
 
@@ -9,11 +10,11 @@ I am particularly interested in how **intelligent systems can operate under unce
 
 ### 🔬 Research & Technical Interests
 
-* Autonomous and robotic systems
+* Autonomous aerospace systems
 * Decision-making under uncertainty
 * Probabilistic modeling and statistical inference
 * Robot perception, state estimation, and control
-* Data-driven methods for dynamical systems
+  
 
 ---
 
