@@ -44,18 +44,6 @@ I am particularly interested in how **intelligent systems can operate under unce
 
 ---
 
-### 🎯 Academic Direction
-
-My long-term goal is to pursue **graduate research** focused on the theory and implementation of autonomous systems, particularly:
-
-* probabilistic inference in robotics,
-* decision-making under uncertainty,
-* and the integration of learning-based methods with physical models.
-
-I aim to contribute to research that enables **robust autonomy in real-world, constrained environments**.
-
----
-
 ### 📫 Contact & Links
 
 * **Email:** [sumerbassi2911@gmail.com](mailto:your.email@domain.com)
