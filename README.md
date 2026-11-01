@@ -1,6 +1,6 @@
 ## Sumer Mohan Singh Bassi
 
-Aerothermal engineer at **Skyroot Aerospace**, working on external-aerodynamics CFD.
+Aerothermal engineer at **Skyroot Aerospace**, working on external-aerodynamics CFD of a launch vehicle from subsonic to hypersonic speeds.
 B.Tech (Honours) in Mechanical Engineering with a Minor in Computer Science, **IIT Ropar** (2026).
 
 I am interested in compressible external aerodynamics, turbulence and wall modelling, and the numerical methods that make high-speed CFD reliable.
@@ -20,10 +20,10 @@ I am interested in compressible external aerodynamics, turbulence and wall model
 
 ### Selected projects
 
+- **Flapping-Wing Micro Air Vehicle:** 100 g, 0.5 m-span DelFly-style flapping-wing MAV, with flapping frequency and gear train sized from a quasi-steady lift budget, and a 3D-printed four-bar mechanism refined through iterative redesign. *(Capstone Project II)*
 - **[Multi-Sensitivity Soft Tactile Sensor](https://github.com/SUMERBASSI/Multi-Sensitivity-Soft-Tactile-Sensor):** metamaterial tactile sensor with tunable stiffness, validated by coupled solid-mechanics and magnetic-field simulation in COMSOL. *(Honours project)*
-- **[UGV-UAV Transformer](https://github.com/SUMERBASSI/UGV-UAV-Transformer):** robot that converts between ground and aerial modes via a servo-actuated four-bar linkage, with ESP32 drive control and a flight controller for stabilisation. *(Capstone project)*
-- **[AMR Path Planning Optimization](https://github.com/SUMERBASSI/AMR-Path-Planning-Optimization):** autonomous navigation across warehouse layouts in ROS 2 and Gazebo. *(B.Tech project)*
-- **[Pair Trading using Copulas](https://github.com/SUMERBASSI/Pair-trading-using-Copulas):** copula-based dependence modelling of financial time series with a mispricing-based trading strategy. *(Research internship)*
+- **[UGV-UAV Transformer](https://github.com/SUMERBASSI/UGV-UAV-Transformer):** robot that converts between ground and aerial modes via a servo-actuated four-bar linkage, with ESP32 drive control and a flight controller for stabilisation. *(Capstone Project I)*
+- **[AMR Path Planning Optimization](https://github.com/SUMERBASSI/AMR-Path-Planning-Optimization):** autonomous navigation and comparison of A*, RRT* and D* across warehouse layouts in ROS 2 and Gazebo. *(B.Tech project)*
 
 ### Contact
 
