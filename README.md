@@ -1,6 +1,6 @@
 ## Sumer Mohan Singh Bassi
 
-Aerothermal engineer at **Skyroot Aerospace**, working on external-aerodynamics CFD of a launch vehicle from subsonic to hypersonic speeds.
+Aerothermal engineer at **Skyroot Aerospace**, working on external-aerodynamics CFD .
 B.Tech (Honours) in Mechanical Engineering with a Minor in Computer Science, **IIT Ropar** (2026).
 
 I am interested in compressible external aerodynamics, turbulence and wall modelling, and the numerical methods that make high-speed CFD reliable.
