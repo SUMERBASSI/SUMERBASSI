@@ -22,7 +22,7 @@ I am interested in compressible external aerodynamics, turbulence and wall model
 
 - **[Multi-Sensitivity Soft Tactile Sensor](https://github.com/SUMERBASSI/Multi-Sensitivity-Soft-Tactile-Sensor):** metamaterial tactile sensor with tunable stiffness, validated by coupled solid-mechanics and magnetic-field simulation in COMSOL. *(Honours project)*
 - **[UGV-UAV Transformer](https://github.com/SUMERBASSI/UGV-UAV-Transformer):** robot that converts between ground and aerial modes via a servo-actuated four-bar linkage, with ESP32 drive control and a flight controller for stabilisation. *(Capstone project)*
-- **[AMR Path Planning Optimization](https://github.com/SUMERBASSI/AMR-Path-Planning-Optimization):** autonomous navigation and comparison of A*, RRT* and D* across warehouse layouts in ROS 2 and Gazebo. *(B.Tech project)*
+- **[AMR Path Planning Optimization](https://github.com/SUMERBASSI/AMR-Path-Planning-Optimization):** autonomous navigation across warehouse layouts in ROS 2 and Gazebo. *(B.Tech project)*
 - **[Pair Trading using Copulas](https://github.com/SUMERBASSI/Pair-trading-using-Copulas):** copula-based dependence modelling of financial time series with a mispricing-based trading strategy. *(Research internship)*
 
 ### Contact
